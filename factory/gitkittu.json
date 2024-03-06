@@ -1,0 +1,9 @@
+{
+	"name": "gitkittu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7751fc5e-442c-4d53-99d6-82401dd82bd1",
+		"tenantId": "be67460d-1ca3-4b7a-8022-666c8bc0c7b7"
+	}
+}
